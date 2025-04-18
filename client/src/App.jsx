@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Login from './components/Login';
-import Dashboard from './components/Dashboard';
-import ScheduleInterviewForm from './components/ScheduleInterviewForm';
+import Dashboard from './pages/Dashboard';
+import ScheduleInterviewForm from './components/ScheduleInterview';
 import ScheduledList from './components/ScheduledList';
 
 function App() {
