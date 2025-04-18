@@ -70,7 +70,7 @@ export default function Dashboard() {
 
       {/* Footer */}
       <footer className="bg-white/90 backdrop-blur-md text-center py-4 mt-auto text-sm text-gray-500">
-        © 2025 RecruiterApp — Built with ❤️ by Bhawuk Arora
+        © 2025 RecruiterApp — Built with ❤️ by Mukul Dhattarwal
       </footer>
     </div>
   );
